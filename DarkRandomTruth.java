@@ -1,4 +1,3 @@
-package batch_105;
 
 import java.util.Random;
 
